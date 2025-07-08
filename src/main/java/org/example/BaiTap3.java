@@ -38,7 +38,5 @@ public class BaiTap3 {
         System.out.println(dtb);
         System.out.println(xepLoai);
 
-        System.out.println("Hello World");
-
     }
 }
