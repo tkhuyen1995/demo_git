@@ -43,6 +43,7 @@ public abstract class TaiKhoan {
         System.out.println("Chủ tài khoản: " + chuTaiKhoan);
         System.out.println("Số dư: " + soDu);
         System.out.println("Số tiền lãi: " + tinhLai());
+        System.out.println("------------------------------");
     }
 
     public abstract double tinhLai();
